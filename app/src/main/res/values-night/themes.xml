@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<resources>
+    <style name="Theme.GeoQuiz" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#8D4E16</item>
+        <item name="colorSecondary">#8D4E16</item>
+        <item name="android:windowBackground">#FFF7E8</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#FFF7E8</item>
+    </style>
+</resources>
